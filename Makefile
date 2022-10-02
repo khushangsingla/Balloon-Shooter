@@ -1,0 +1,2 @@
+Balloon Shooter: source/arrow.cpp source/arrow.h source/balloon.cpp source/balloon.h source/bow.cpp source/bow.h source/constants.h source/gameEngine.cpp source/gameEngine.h source/main.cpp source/Object.cpp source/Object.h source/std_headers.h source/Vector.cpp source/Vector.h
+	g++ -I/usr/local/include -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_THREAD_SAFE -D_REENTRANT -o 'Balloon Shooter' source/*.cpp /usr/local/lib/libfltk.a -lXext -lpthread -ldl -lm -lX11
