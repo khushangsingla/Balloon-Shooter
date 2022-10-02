@@ -8,7 +8,7 @@ This game is made in CPP using FLTK Graphics. There is a bow in the left bottom 
 
 The direction of bow is controlled using a mouse. Click and hold the bow, adjust the direction and then release the click.
 
-The	`ELF 64-bit LSB pie executable` can be downloaded from the repository or by clicking [here](https://github.com/khushangsingla/Balloon-Shooter/raw/main/Balloon\ Shooter)
+The	`ELF 64-bit LSB pie executable` can be downloaded from the repository or by clicking [here](https://github.com/khushangsingla/Balloon-Shooter/raw/main/Balloon%20Shooter)
 
 ### Compiling from the source code
 
